@@ -15,7 +15,7 @@ Front-End netflix clone using react and firebase hosting
 - build the rows
 - build the banner
 - build the nav bar
-- add trailer pop (1.npm i react-youtube 2.npm i movie-trailer)
+- add trailer popup (1.using react-youtube 2.using movie-trailer)
 - deploy to firebase
 
 

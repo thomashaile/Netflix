@@ -4,7 +4,7 @@
 Front-End netflix clone using react and firebase hosting
 
 ### Screen shot
-
+![Screenshot](screenshot-netflix.jpg")
 
 ### Steps
 

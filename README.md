@@ -21,6 +21,6 @@ Front-End netflix clone using react and firebase hosting
 
 ### Demo hosted on firebase
 
-[My-Netflix-clone](https://netflix-ff0c3.web.app/)
+:runner: [My-Netflix-clone](https://netflix-ff0c3.web.app/)
 
 
